@@ -1,0 +1,441 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.contnav{
+    background-color: rgb(255, 255, 255);
+    color:rgb(20, 87, 46);
+}
+.contnav h6{
+    font-size:14px;
+    letter-spacing:2px;
+}
+
+.navs{
+    background-color:rgb(15, 77, 39);
+    width:100%;
+    height:110px;
+    position:sticky;
+}
+.backss{
+    background-image: url(../Image/antique-gold-pocket-watch-timeless-elegance-generated-by-ai.jpg);
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.back{
+    background-image: url(../Image/close-up-seller-s-hands-gloves-shows-exclusive-men-s-watch-from-new-collection-luxury-jewelry-store.jpg );
+    width: 100%;   
+    height:700px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.backs{
+    background-image: url(../Image/closeup-shot-man-wearing-suit-more-precisely-his-hands-ring-wristwatch.jpg);
+    width: 100%;   
+    height:700px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.backz{
+    background-image: url(../Image/front-view-chest-part-man-dressed-stylish-black-suit-precious-watch-man-s-hands.jpg);
+    width: 100%;   
+    height:700px; 
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+.divi{
+    position: relative;
+    top:40px;
+    font-size:15px;
+}
+.men{
+    position: relative;
+    top:42px;
+    font-size:15px;
+}
+i{
+    margin-right:40px;
+}
+.mainnav{
+    height:0px;
+}
+.imgg{
+    height:150px;
+    position: relative;
+    bottom:16px;
+}
+.bh1{
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    top:300px;
+    color: white;
+}
+.siz{
+    font-size:20px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+}
+.siz1{
+    font-size:40px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+}
+.btn1{  
+    border:none;
+    background-color:rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px); 
+    color:white;
+    font-size:12px;
+    padding:12px 40px;
+    border-radius:30px;
+    box-shadow:2px 2px 5px rgba(0, 0, 0, 0.4);
+}
+.socialic a{
+    color:rgb(15, 77, 39);
+}
+.share{
+    margin-left:150px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.limg{
+    width:80px;
+    height:50px;
+    margin-top:50px;
+    margin-left:140px;
+    margin-bottom:50px;
+}
+.lbg{
+    background-color: rgb(235, 235, 235);
+    background-attachment: fixed;
+}
+.bacs{
+    background-image: url(../Image/rolex\ img.jpg);
+    width:100%;
+    height:300px;
+    color:white;
+    justify-content: center;
+    text-align: center;
+    margin-top:30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.siz3{
+    font-size:35px;
+    text-shadow: 2px 2px 5px rgba(116, 115, 115, 0.4); 
+    position: relative;
+    top:100px;
+}
+.siz4{
+    position: relative;
+    top:120px;
+    text-shadow: 2px 2px 5px rgba(105, 105, 105, 0.4); 
+}
+.ni{
+    position: relative;
+    top:44px;
+    left:30px;
+    font-size:18px;
+}
+.catg li{
+    list-style-type: none;
+    position: relative;
+    right:30px;
+}
+
+.catg div:nth-child(2){
+    padding:20px;
+}
+.catg div:nth-child(3){
+    padding:20px;
+}
+.catg div:nth-child(4){
+    padding:20px;
+}
+.borde{
+    background-color: white;
+    
+}
+.swit{
+    padding:10px 20px;
+    position: relative;
+    bottom:-15px;
+}
+.bht{
+    position: relative;
+    bottom:-18px;
+}
+.crd{
+    width:90%;
+    height:290px;
+    background:url(../Image/Rolex\ Img\ \(5\).jpg)
+
+}
+
+.cimg{
+    width:90%;
+    height:230px;
+    object-fit:contain;
+    position: relative;
+    left:10px;
+}
+
+.cbtn{
+    background-color:rgb(15, 77, 39);
+    color: rgb(255, 255, 255);
+    border: none;
+    height:60px;
+    width:234px;
+    position: relative;
+    right:1px;
+    border-radius:2px;
+}
+.vid{
+    width:90%;
+    height:500px;
+    object-fit: cover;
+    border-radius:5px;
+    position: relative;
+    left:50px;
+    /* border:2px solid #08d0f3; */
+}
+.bgd{
+    background: url(../Image/front-view-chest-part-man-dressed-stylish-black-suit-precious-watch-man-s-hands.jpg);
+    padding:50px;
+    border-radius:5px;
+}
+.lst li{
+    list-style-type: none;
+    position: relative;
+    right:30px;
+}
+.lst img{
+    width:100%;
+    height:560px;
+    object-fit: cover;
+    border-radius:3px;
+}
+.tc{
+    text-align: center;
+    color:rgb(15, 77, 39);
+}
+.pt{
+    position: relative;
+    top:50px;
+}
+.lsst{
+    margin-top:180px;
+}
+.pimg{
+    width:100%;
+    height:600px;
+    border-radius:5px;
+    object-fit: cover;
+    border: 2px solid rgb(15, 77, 39);
+    padding:10px;
+}
+.prod{
+    margin-top:20px;
+    margin-bottom:40px;
+}
+.revform{
+    background-color:rgb(15, 77, 39);
+    color:white;
+    padding:60px 20px;
+    border-radius:10px;
+    font-size:18px;
+}
+.revform label{
+    position: relative;
+    left:80px;
+}
+.revform p{
+    position: relative;
+    left:60px;
+    top:33px;
+}
+.revform button{
+    position: relative;
+    border: none;
+    padding:9px 40px;
+    background-color:white;
+    color:rgb(15, 77, 39);
+    border-radius:5px;
+    top:23px;
+    left:50px;
+}
+.pbg{
+   /* border: 3px solid rgb(15, 77, 39);  */
+   border-radius:10px;
+   color:rgb(255, 255, 255);
+   padding:30px;
+   background-color:rgb(15, 77, 39);
+}
+.ofback{
+    position: relative;
+    left:140px;
+}
+.pbg label{
+    font-size:18px;
+}
+
+.formcontrol1{
+    position: relative;
+    left:73px;
+    padding:5px 30px;
+    border-radius:5px;
+    border: none;
+    text-align: center;
+}
+.formcontrol2{
+    margin-left:85px;
+    padding:5px 56px;
+    border-radius:5px;
+    border: none;
+    text-align: center;
+}
+.lnname{
+    position: relative;
+    left:80px;
+}
+.formcontrol3{
+    position: relative;
+    left:29px;
+    padding:5px 235px;
+    border-radius:5px;
+    border: none;
+    text-align: center;
+}
+.formcontrol4{
+    position: relative;
+    left:8px;
+    padding:5px 236px;
+    border-radius:5px;
+    border: none;
+    text-align: center;
+}
+.formcontrol5{
+    margin-left:90px;
+    padding:5px 44px;
+    border-radius:5px;
+    border: none;
+    text-align: center;
+}
+
+.formcontrol6{
+    position: relative;
+    left:55px;
+    padding:5px 63px;
+    border-radius:5px;
+    border: none;
+    text-align: center;
+}
+.formcontrol7{
+    position: relative;
+    left: 15px;;
+    padding:5px 251px;
+    border-radius:5px;
+    border: none;
+    text-align: center;
+}
+.formcontrol8{
+    position: relative;
+    left:20px;
+    padding:5px 62px;
+    border-radius:5px;
+    border: none;
+    text-align: center;
+}
+.formcontrol9{
+    position: relative;
+    left:10px;
+    padding:5px 44px;
+    border-radius:5px;
+    border: none;
+    text-align:center;
+}
+.gen{
+    position: relative;
+    font-size:18px;
+    left:100px;
+    /* padding:5px 222px; */
+    color:rgb(255, 255, 255);
+    border-radius:5px;
+    margin-top:1px;
+    margin-bottom:3px;
+}
+.bt{
+    position: relative;
+    background-color: white;
+    color:rgb(15, 77, 39);
+    border:none;
+    padding:10px 40px;
+    top:15px;
+    left:380px;
+    border-radius:5px;
+    font-size:20px;
+
+}
+.aimg{
+    width:100%;
+    height:670px;
+    object-fit: cover;
+    border-radius:10px;
+    border:2px solid white;
+    padding:5px;
+}
+.apara{
+    text-align: justify;
+}
+.abg{
+    background-color:rgb(15, 77, 39);
+    color: white;
+    padding: 20px;
+    border-radius:5px;
+}
+/* .ebg{
+    background-color:rgb(7, 7, 14);
+    color: white;
+    padding: 20px;
+    border-radius:5px;
+}
+.fbg{
+    background-color:rgb(15, 77, 39);
+    padding: 20px;
+    border-radius:5px; 
+} */
+
+.bgt{
+    background-color:rgb(0, 0, 0);
+    color: white;
+    padding:4px; 
+}
+.langu{
+    position: relative;
+    top:22px;
+    right:31px;
+    font-size:22px;
+}
+.repairimg{
+    position: relative;
+    width:100%;
+    height:430px;
+    object-fit: cover;
+    border-radius:10px;
+    top:5px;
+    border:2px solid white;
+}
+.sbg{
+    background-color:rgb(15, 77, 39);
+    color:white;
+    padding:20px;
+    border-radius:5px;
+}
